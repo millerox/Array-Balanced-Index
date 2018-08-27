@@ -9,7 +9,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author student
+ * @author Oksana_Miller
+ * Program is designed to find a balanced index in the array of integer values.
+ * If the sum of elements from the right of an index is equal the sum of elements from the left, the index is balanced.
+ * For example, in the array {3,4,1,5,2,0}, element "1" located at index 2, is the Balanced Index. 
  */
 public class BalancedIndexOptimized {
 
